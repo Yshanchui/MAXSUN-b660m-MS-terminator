@@ -1,5 +1,8 @@
 # Hackintosh-12600K-MAXSUN-B660M-MS-TERMINATOR
 
+# 2022年10月30日更新
+升级oc至0.8.5
+
 # 2022年6月12日更新
 升级oc至0.8.1 
 更新intel wifi 蓝牙驱动 支持AX210
