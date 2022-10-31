@@ -1,5 +1,7 @@
 # Hackintosh-12600K-MAXSUN-B660M-MS-TERMINATOR
 
+# 2022年10月31日更新
+可直接升级至mac Ventura 13.0
 # 2022年10月30日更新
 升级oc至0.8.5
 
@@ -35,7 +37,7 @@ ACHI usb定制
 | WiFi + 蓝牙 | BCM94360CD (PCI+USB转接卡) |
 
 ![avatar](png.jpg)
-
+![avatar](img.png)
 # 使用情况
 装配intel wifi 蓝牙 kext文件 ，默认未启用。intel网卡启用即可
 
