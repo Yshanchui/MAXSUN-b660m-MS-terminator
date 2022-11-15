@@ -1,5 +1,7 @@
 # Hackintosh-12600K-MAXSUN-B660M-MS-TERMINATOR
 
+# 2022年11月15日更新
+修复内置声卡播放
 # 2022年10月31日更新
 可直接升级至mac Ventura 13.0
 # 2022年10月30日更新
